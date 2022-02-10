@@ -1,4 +1,4 @@
 # PDF-to-CSV-Converter
 Python Programme to extract data from PDF Columns and produce a CSV file using PDFPlumber &amp; Pandas
 
-- Install the required libraries and run the programme to receive the classifiers score
+- Install the required libraries, run the programme and check out.csv file
